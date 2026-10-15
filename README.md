@@ -1,7 +1,7 @@
 # TEST.me
 miluju koukat na arcane
 
-## arcane
+## Arcane
 nejlepší zbraně
 1. Ravenna Greatsword
 2. Dual Scimitars

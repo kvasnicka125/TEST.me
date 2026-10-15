@@ -1,1 +1,5 @@
-Magic, otherwise known as the Arcane, is considered dangerous in both Piltover and Zaun. Due to its instability and difficulty to master, the Council banned its study in the Academy. This ban was lifted when Jayce Talis began development of Hextech, a way to master magic using science.
+Magic, otherwise known as the Arcane, is considered
+dangerous in both Piltover and Zaun.Due to its instability
+and difficulty to master,the Council banned its study in
+the Academy.This ban was lifted when Jayce Talis began
+development of Hextech,a way to master magic using science.

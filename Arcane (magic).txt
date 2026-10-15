@@ -3,3 +3,8 @@ dangerous in both Piltover and Zaun.Due to its instability
 and difficulty to master,the Council banned its study in
 the Academy.This ban was lifted when Jayce Talis began
 development of Hextech,a way to master magic using science.
+
+Councillor Bolbok has claimed that his race was nearly wiped
+out because of magic, and other Councillors have pointed out
+that Piltover was founded to escape the warmongering of mages,
+since Arcane power in the wrong hands can become easily corrupted.
